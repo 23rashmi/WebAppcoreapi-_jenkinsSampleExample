@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5VWaP1fzqGblF4VZ1Gc5LrZbf89Efqrr2vK6y7LaFVo=",
+  "Source": "WbApp_JenkinsSampleExample",
+  "BasePath": "_content/WbApp_JenkinsSampleExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WbApp_JenkinsSampleExample/1.0.0": {
+        "runtime": {
+          "WbApp_JenkinsSampleExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WbApp_JenkinsSampleExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
